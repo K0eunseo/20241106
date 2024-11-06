@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    width: 300px;
+  }
+  
+  h1 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  #menu {
+    font-size: 1.1em;
+    color: #333;
+    white-space: pre-line; /* 줄바꿈이 적용되도록 설정 */
+  }
+  
